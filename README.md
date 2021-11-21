@@ -8,6 +8,8 @@
 Sentiment Analysis refers to detecting the polarity of any comment whether it is having a positive meaning or negative. It has multiple applications for example in checking review of a newly launched movie , for checking sentiment about any movement like kissan andolan and also for automatic feedback classification and many more. 
 
 
+### Dataset Link: http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
  ## Flowchart
 ![enter image description here](https://github.com/ritik-sys/movie-review-analysis-using-NLP/blob/main/Screenshots/Screenshot5.png)
 
